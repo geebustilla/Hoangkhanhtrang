@@ -1,0 +1,23 @@
+html {
+  height: auto;
+  width: auto;
+  background-color: black;
+}
+body{
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+}
+.sentence{
+  padding: 150px;
+}
+p{
+  font-size: 200%;
+  color: aliceblue;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+}
